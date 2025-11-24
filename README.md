@@ -1,5 +1,7 @@
 /* Header Files*/
+
 #include "WiFiS3.h"
+
 #include "Arduino_LED_Matrix.h"
 /*Macros*/
 /*Pin Definitions */
